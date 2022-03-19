@@ -16,7 +16,7 @@ This project is built with different types of libraries. Some of them are:
 
 <p align="center">
   <img src="initial.JPG" width="500" alt="screenshoot">
-  <img src="plya1.JPG" width="500" alt="screenshoot">
+  <img src="play1.JPG" width="500" alt="screenshoot">
   <img src="play2.JPG" width="500" alt="screenshoot">
 </p>
 
